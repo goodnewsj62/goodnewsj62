@@ -11,7 +11,7 @@ website: [dev.osonwa.com](https://dev.osonwa.com)
 
 ## **Skills and tools**
 - ***Languages:** Python Javascript Typescript Rust C++  Java*
-- ***Tools & Frameworks:** Django Flask Nodejs React ReactNative*
+- ***Tools & Frameworks:** Django Flask Nodejs Nestjs React ReactNative*
 - ***Databases:** Postgres MySQL Redis RabbitMQ*
 - ***ServerSide:** Linux Nginx Docker*
 - ***Others:** Git Postman Vscode* 
